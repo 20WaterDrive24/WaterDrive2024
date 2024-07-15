@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <body>
@@ -7,4 +6,3 @@
     <a href="https://www.gameinformer.com" target="_blank">Venmo</a>
     <a href="https://www.duckduckgo.com" target="_blank">CashApp</a>
 </body>
-</html>

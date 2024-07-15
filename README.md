@@ -6,4 +6,3 @@
     <a href="https://www.venmo.com" target="_blank">Venmo</a>
     <a href="https://www.cashapp.com" target="_blank">CashApp</a>
 </body>
-    <h1>Select Payment Method</h1>
